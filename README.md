@@ -34,6 +34,12 @@ foco:        [IA aplicada, Automação, Produtos digitais, Gestão Ágil, Govern
 
 ## 🚀 Conexxio Tecnologia
 
+<p align="center">
+  <a href="https://conexxio.com.br">
+    <img src="https://conexxio.com.br/wp-content/uploads/2026/01/cropped-logo-conexxio-sem-fundo-150x150.png" width="130" alt="Logo Conexxio" />
+  </a>
+</p>
+
 > **Tecnologia que impulsiona. Inteligência que conecta.**
 
 A Conexxio nasceu para resolver um problema comum no mercado: soluções complexas demais para problemas simples — e simples demais para desafios estratégicos. Somos uma empresa de **Desenvolvimento, Inteligência Artificial, Chatbots e Consultoria Estratégica**.
