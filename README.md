@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00B4D8&height=190&section=header&text=Ramon%20Oliveira&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=CEO%20%26%20S%C3%B3cio%20Fundador%20%C2%B7%20Conexxio%20Tecnologia&descAlignY=58&descSize=18" alt="Ramon Oliveira — Conexxio" />
+  <img src="./assets/header.svg" width="100%" alt="Ramon Oliveira — Conexxio" />
 </p>
 
 <p align="center">
@@ -141,5 +141,5 @@ Tem um desafio que precisa virar resultado? Fale comigo ou com o time da Conexxi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0B1F3A&height=110&section=footer" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
